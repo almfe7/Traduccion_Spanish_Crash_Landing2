@@ -576,16 +576,16 @@
 
   "hqm.quest.salvage_operation.structure_mer_lab.name": "caída del sistema",
   "hqm.quest.salvage_operation.structure_mer_lab.desc": "Las ruinas en este planeta parecen contener restos de todo tipo de tecnología interesante. Algo de esta tecnología parece adecuada para convertir materia en energía, y viceversa.",
-  "hqm.quest.salvage_operation.structure_mer_lab.task.0.long_desc": "Puedes encontrar un Laboratorio de Investigación de Materia-Energía o meteoritos explorando el desierto. Una brújula de meteoritos (meteorite compass) puede ayudar a localizar meteoritos si no puedes encontrarlos.",
+  "hqm.quest.salvage_operation.structure_mer_lab.task.0.long_desc": "Puedes encontrar un Laboratorio de Investigación de Materia-Energía o meteoritos explorando el desierto. Una brújula de meteoritos puede ayudar a localizar meteoritos si no puedes encontrarlos.",
 
   "hqm.quest.salvage_operation.me_processors.name": "Conectando tus Cables",
   "hqm.quest.salvage_operation.me_processors.desc": "Esas partes rotas no serán suficientes para comenzar a almacenar materia como energía. Necesitarás hacer algunos circuitos de procesamiento más avanzados primero.",
   "hqm.quest.salvage_operation.me_processors.task.0.desc": "Ingredientes",
-  "hqm.quest.salvage_operation.me_processors.task.0.long_desc": "Para hacer chips de procesamiento, necesitarás inscribir silicona y algunos otros materiales. Haz un inscriptor, obtén algo de silicona, y rompe una PCB en segmentos que puedas usar para coserla toda junta.",
+  "hqm.quest.salvage_operation.me_processors.task.0.long_desc": "Para hacer chips de procesamiento, necesitarás inscribir silicona y algunos otros materiales. Haz una prensa (inscriptor), obtén algo de silicona, y rompe una PCB en segmentos que puedas usar para coserla toda junta.",
   "hqm.quest.salvage_operation.me_processors.task.1.desc": "Inscribiendo",
-  "hqm.quest.salvage_operation.me_processors.task.1.long_desc": "Usa el inscriptor para hacer los tres tipos principales de circuitos; lógica, cálculo, e ingeniería. También necesitarás algo de silicona impreso para usar como placa base.",
+  "hqm.quest.salvage_operation.me_processors.task.1.long_desc": "Usa el inscriptor para hacer los tres tipos principales de circuitos; lógico, cálculo, e ingeniería. También necesitarás algo de silicona impresa para usar como placa base.",
   "hqm.quest.salvage_operation.me_processors.task.2.desc": "Poniéndolo Juntos",
-  "hqm.quest.salvage_operation.me_processors.task.2.long_desc": "Cuando tengas todos los componentes, inscribe tus circuitos poniendo los circuitos impresos en la parte superior del inscriptor, el silicio impreso en la parte inferior, y un segmento de PCB en el medio.",
+  "hqm.quest.salvage_operation.me_processors.task.2.long_desc": "Cuando tengas todos los componentes, inscribe tus circuitos poniendo los circuitos impresos en la parte superior de la prensa (inscriptor), el silicio impreso en la parte inferior, y un segmento de PCB en el medio.",
 
   "hqm.quest.salvage_operation.me_system.name": "Quedar registrado",
   "hqm.quest.salvage_operation.me_system.desc": "Un sistema de almacenamiento de Materia/Energía necesita algunos componentes clave para funcionar. Reúne estos componentes, construye tu sistema de almacenamiento, dale energía, y podrás almacenar cantidades masivas de items en un espacio pequeño.",
@@ -596,29 +596,29 @@
   "hqm.quest.salvage_operation.me_system.task.2.desc": "ME Terminal",
   "hqm.quest.salvage_operation.me_system.task.2.long_desc": "Las ME Terminals son el punto de acceso a tu red. La terminal básica te permite ver el almacenamiento de tu red y agregar/remover items. Probablemente querrás mejorar a una terminal de fabricación muy pronto, y eventualmente una terminal inalámbrica para acceder a tu red desde cualquier lugar. Lee más en la Guía de Applied Energistics.",
   "hqm.quest.salvage_operation.me_system.task.3.desc": "ME Storage Cell",
-  "hqm.quest.salvage_operation.me_system.task.3.long_desc": "Las ME Celdas de Almacenamiento son donde los items (o fluidos) se almacenan en tu red. Cada celda de almacenamiento de items puede almacenar hasta 63 tipos de items, con el número total de items determinado por el tamaño de la celda. Generalmente, deberías hacer algunas celdas de almacenamiento grandes para contener los items que tienes en grandes cantidades, y luego celdas de almacenamiento pequeñas para contener items que solo tienes en pequeñas cantidades. Lee más en la Guía de Applied Energistics.",
+  "hqm.quest.salvage_operation.me_system.task.3.long_desc": "Las ME Unidad de Almacenamiento son donde los items (o fluidos) se almacenan en tu red. Cada celda de almacenamiento de items puede almacenar hasta 63 tipos de items, con el número total de items determinado por el tamaño de la celda. Generalmente, deberías hacer algunas celdas de almacenamiento grandes para contener los items que tienes en grandes cantidades, y luego celdas de almacenamiento pequeñas para contener items que solo tienes en pequeñas cantidades. Lee más en la Guía de Applied Energistics.",
 
 
 
   "hqm.quest.salvage_operation.structure_tinkers_smeltery.name": "Calor Abrasador",
   "hqm.quest.salvage_operation.structure_tinkers_smeltery.desc": "Las ruinas en este planeta parecen contener restos de todo tipo de tecnología interesante. Algunas de estas ruinas tienen ladrillos que parecen lo suficientemente fuertes para resistir el calor abrasador de una fundición.",
-  "hqm.quest.salvage_operation.structure_tinkers_smeltery.task.0.long_desc": "Puedes encontrar edificios de fundición en ciudades. Rompe los ladrillos de fundición con un martillo o ponlos en algún tipo de máquina de trituración para obtener ladrillos.",
+  "hqm.quest.salvage_operation.structure_tinkers_smeltery.task.0.long_desc": "Puedes encontrar edificios de fundición en ciudades. Rompe los Ladrillos refractarios agrietados con un martillo o ponlos en algún tipo de máquina de trituración para obtener Ladrillos refractarios.",
 
   "hqm.quest.salvage_operation.smeltery.name": "progresión del forjado",
   "hqm.quest.salvage_operation.smeltery.desc": "Vas a necesitar mucho metal para prosperar en este planeta. Una fundición te ayudará a obtener un buen comienzo aumentando casi al doble la cantidad de metal que obtienes de cada pieza de mineral. También puedes hacer equipo más avanzado con metal fundido y aleación.",
-  "hqm.quest.salvage_operation.smeltery.task.0.long_desc": "Para construir la fundición, haz un piso de ladrillos de fundición (3x3 es el estándar), y llena cada cara con bloques de fundición, típicamente una mezcla de ladrillos de fundición, drenajes de fundición, vidrio de fundición, y un tanque de fundición. Coloca el controlador de fundición en la parte frontal, y deberías ser capaz de interactuar con la estructura. Consulta la guía \"Gran Fundición \" para más información.",
+  "hqm.quest.salvage_operation.smeltery.task.0.long_desc": "Para construir la fundición, haz un piso de ladrillos refractarios (3x3 es el estándar), y llena cada cara con bloques de ladrillos refractarios, típicamente una mezcla de ladrillos de refractarios, drenajes de piedra refractaria, vidrio de piedra fundición, y un tanque de combustible refractario. Coloca el controlador de fundición en la parte frontal, y deberías ser capaz de interactuar con la estructura. Consulta la guía \"Gran Fundición \" para más información.",
 
   "hqm.quest.salvage_operation.tinkers_anvil.name": "Forja de Herramientas",
   "hqm.quest.salvage_operation.tinkers_anvil.desc": "El yunque del Tinkers es una mejora a la estación del Tinkers que puede usarse para hacer herramientas más avanzadas, incluyendo herramientas que minan en un área de efecto y el cleaver, excelente para decapitar mobs.",
-  "hqm.quest.salvage_operation.tinkers_anvil.task.0.long_desc": "El yunque de artesano se hace de piedra de fundición y bloques de metal aleado alrededor de una estación del tinkers.",
+  "hqm.quest.salvage_operation.tinkers_anvil.task.0.long_desc": "El yunque del tinkers se hace de piedra de fundición y bloques de metal aleado alrededor de una estación del tinkers.",
 
   "hqm.quest.salvage_operation.cast_chest.name": "El molde Náufrago",
   "hqm.quest.salvage_operation.cast_chest.desc": "Cuando configures una fundición, necesitarás un buen lugar para almacenar todos tus moldes.",
   "hqm.quest.salvage_operation.cast_chest.task.0.long_desc": "Un Cofre de Moldes puede ser hecho de ladrillo de fundición, un cofre, y un molde. Almacena hasta 4 de cada tipo de molde, así que usualmente puedes meter todos los moldes que alguna vez necesitarás adentro.",
 
   "hqm.quest.salvage_operation.foundry.name": "Aumentando el Calor",
-  "hqm.quest.salvage_operation.foundry.desc": "El Gran horno (foundry) es una versión alternativa de la fundición, aproximadamente triplicará el número de lingotes que obtienes de los minerales. Los minerales fundidos en la fundición producirán un subproducto adicional, proporcionando aún más recursos por mineral. Incluso puedes usarlo para obtener más piedra de fundición como subproducto de fundir piedra. También permite mucho más líquido ser almacenado por bloque, pero no puede hacer aleaciones, así que tendrás que usar un alloyer o la fundición para eso.",
-  "hqm.quest.salvage_operation.foundry.task.0.long_desc": "Puedes encontrar componentes de Gran horno en la estructura de ciudad de foundry.\nEl multiblock de fundición se construye de manera similar a la fundición, pero hecho de bloques de fundición. A diferencia de la fundición, debes llenar los bordes de una fundición con bloques aceptables, no solo las caras internas. Consulta la guía \"Fundición Fantástica\" para más información.",
+  "hqm.quest.salvage_operation.foundry.desc": "El Gran horno (foundry) es una versión alternativa de la fundición, aproximadamente triplicará el número de lingotes que obtienes de los minerales. Los minerales fundidos en el Gran horno producirán un subproducto adicional, proporcionando aún más recursos por mineral. Incluso puedes usarlo para obtener más piedra de fundición como subproducto de fundir piedra. También permite mucho más líquido ser almacenado por bloque, pero no puede hacer aleaciones, así que tendrás que usar un alloyer o la fundición para eso.",
+  "hqm.quest.salvage_operation.foundry.task.0.long_desc": "Puedes encontrar componentes de Gran horno en la estructura de ciudad de foundry.\nEl multiblock de fundición se construye de manera similar a la fundición, pero hecho de ladrillos chamuscados. A diferencia de la fundición, debes llenar los bordes de un Gran horno con bloques aceptables, no solo las caras internas. Consulta la guía \"Fundición Fantástica\" para más información.",
 
   "hqm.quest.salvage_operation.bronze_constantan.name": "Edad de Bronce",
   "hqm.quest.salvage_operation.bronze_constantan.desc": "Con un gran horno configurado, puedes comenzar a hacer herramientas de aleaciones en lugar de solo metales básicos u otros materiales.",
@@ -660,14 +660,14 @@
 
   "hqm.quest.technological_revolution.pitiful_generator.name": "Lucha de Poder",
   "hqm.quest.technological_revolution.pitiful_generator.desc": "Necesitarás más energía eventualmente, pero hacer cualquier tipo de maquinaria avanzada es difícil y a menudo requiere placas de circuito. Sin embargo, puedes configurar una fuente básica de energía con el mismo combustible que un horno.",
-  "hqm.quest.technological_revolution.pitiful_generator.task.0.long_desc": "Un generador miserable puede ser alimentado con combustible de horno, carbón vegetal o bloques de carbón son especialmente efectivos. Sin embargo, la generación de energía es lenta y generalmente ineficiente.",
+  "hqm.quest.technological_revolution.pitiful_generator.task.0.long_desc": "Un pitiful generator puede ser alimentado con combustible de horno, carbón vegetal o bloques de carbón son especialmente efectivos. Sin embargo, la generación de energía es lenta y generalmente ineficiente.",
 
   "hqm.quest.technological_revolution.conduits.name": "Sueños de Tuberías",
   "hqm.quest.technological_revolution.conduits.desc": "Para mayor industrialización, necesitarás mover items, fluidos, y energía alrededor. Es hora de configurar las tuberías.",
-  "hqm.quest.technological_revolution.conduits.task.0.long_desc": "Los conductos se hacen de conduit binder y sus respectivos materiales. Puedes cambiar configuraciones de conducto haciendo clic derecho en su interfaz I/O o haciendo clic derecho con una llave inglesa para hacer ajustes rápidos.\nAdvertencia: Debido a un bug con EnderIO y Thirst, la mayoría de las fuentes de agua no pueden ser transferidas por conductos de fluido. Otros líquidos funcionarán, pero recomendamos usar otros métodos de transferencia mods para mover agua.",
+  "hqm.quest.technological_revolution.conduits.task.0.long_desc": "Los conductos se hacen de conduit binder y sus respectivos materiales. Puedes cambiar las configuraciones de conducto haciendo clic derecho en su interfaz I/O o haciendo clic derecho con una llave inglesa para hacer ajustes rápidos.\nAdvertencia: Debido a un bug con EnderIO y Thirst, la mayoría de las fuentes de agua no pueden ser transferidas por conductos de fluido. Otros líquidos funcionarán, pero recomendamos usar otros métodos de transferencia mods para mover agua.",
 
   "hqm.quest.technological_revolution.manual_alloying.name": "Stirring Up Trouble",
-  "hqm.quest.technological_revolution.manual_alloying.desc": "La aleación es una parte esencial de la revolución tecnológica. El método estándar de aleación es fundiendo los metales en un líquido y mezclando los líquidos juntos. Sin embargo, necesitas calor extremo para eso. Si puedes triturar metales en polvo, no necesitas fundirlos completamente a un líquido. En su lugar, puedes simplemente mezclar los metales juntos a mano y fundir el polvo resultante de vuelta en lingotes.",
+  "hqm.quest.technological_revolution.manual_alloying.desc": "La aleación es una parte esencial de la revolución tecnológica. El método estándar de aleación es fundiendo los metales en un líquido y mezclando los líquidos juntos. Sin embargo, necesitas calor extremo para eso. Si puedes triturar metales en polvo no necesitas fundirlos completamente a un líquido. En su lugar, puedes simplemente mezclar los metales juntos a mano y fundir el polvo resultante de vuelta en lingotes.",
   "hqm.quest.technological_revolution.manual_alloying.task.0.long_desc": "Un molino puede triturar metal en polvo, que luego puede ser fabricado juntos a mano.",
 
   "hqm.quest.technological_revolution.machine_frame.name": "Marco de Referencia",
@@ -797,11 +797,11 @@
   "hqm.quest.to_infinity_and_beyond.beyond_the_stars.task.0.long_desc": "Únete a nuestro discord con código de invitación \u00A794en3SpWtJg\u00A7r, o ve a \u00A79discord.gg/4en3SpWtJg\u00A7r\nIntento responder a las preguntas de todos y me encantarían sugerencias sobre cómo mejorar el modpack.",
 
   "hqm.quest.to_infinity_and_beyond.metallurgic_infuser.name": "Caja de Fusibles",
-  "hqm.quest.to_infinity_and_beyond.metallurgic_infuser.desc": "La aleación típicamente requiere mezclar metales fundidos, pero algunos metales pueden ser infundidos juntos para hacer ciertos tipos de aleaciones. Con un metallurgic infuser, puedes hacer algunas aleaciones más avanzadas como acero. También puede hacer circuitos de control avanzados, útiles para todo tipo de mecanismos interesantes.",
+  "hqm.quest.to_infinity_and_beyond.metallurgic_infuser.desc": "La aleación típicamente requiere mezclar metales fundidos, pero algunos metales pueden ser infundidos juntos para hacer ciertos tipos de aleaciones. Con un Infusor metalúgico, puedes hacer algunas aleaciones más avanzadas como acero. También puede hacer circuitos de control avanzados, útiles para todo tipo de mecanismos interesantes.",
   "hqm.quest.to_infinity_and_beyond.metallurgic_infuser.task.0.desc": "Infusor",
   "hqm.quest.to_infinity_and_beyond.metallurgic_infuser.task.0.long_desc": "Eventualmente puedes mejorar el infusor metalúrgico básico para ser más rápido, más eficiente energéticamente, y tener más ranuras de procesamiento.",
   "hqm.quest.to_infinity_and_beyond.metallurgic_infuser.task.1.desc": "Infusionando",
-  "hqm.quest.to_infinity_and_beyond.metallurgic_infuser.task.1.long_desc": "Una de las aleaciones avanzadas más útiles es el acero. Puedes hacer acero con 2 carbón y 1 lingote de hierro. Pon el carbón en la ranura de infusión del Metallurgic Infuser para licuarlo, luego pon un lingote de hierro en la ranura de procesamiento principal. Esto creará hierro enriquecido, que luego puede ser puesto de vuelta en la ranura de procesamiento principal para hacer mezcla de acero. Finalmente, la mezcla de acero puede ser fundida en un lingote de acero. Una enrichment chamber puede usarse para enriquecer el carbón para obtener 8 veces los recursos por cada pieza de carbón.",
+  "hqm.quest.to_infinity_and_beyond.metallurgic_infuser.task.1.long_desc": "Una de las aleaciones avanzadas más útiles es el acero. Puedes hacer acero con 2 carbón y 1 lingote de hierro. Pon el carbón en la ranura de infusión del Infusor metalúgico para licuarlo, luego pon un lingote de hierro en la ranura de procesamiento principal. Esto creará hierro enriquecido, que luego puede ser puesto de vuelta en la ranura de procesamiento principal para hacer mezcla de acero (steel blend). Finalmente, la mezcla de acero puede ser fundida en un lingote de acero. Una Cámara de enriquecimiento puede usarse para enriquecer el carbón para obtener 8 veces los recursos por cada pieza de carbón.",
 
   "hqm.quest.to_infinity_and_beyond.unnamed.name": "Unnamed",
   "hqm.quest.to_infinity_and_beyond.unnamed.desc": "Unnamed quest",
